@@ -1,0 +1,236 @@
+*{
+    padding:0;
+    margin:0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+body{
+    background-color: lightgray;
+}
+nav{
+    background: indigo;
+    height:50px;
+    width:100%;
+   
+}
+.logo{
+    position: relative;
+    right: 400px;
+}
+nav ul{
+    float:right;
+}
+nav ul li{
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    position: relative;
+    right: 200px;
+    padding: 8px;
+    bottom: 40px;
+}
+.menubar{
+    position: relative;
+    top: 9px;
+
+}
+.container{
+    background-color: white;
+    height: 700px;
+    width: 600px;
+    position:relative;
+    top: 50px;
+    left: 300px;
+}
+h2{
+    position: relative;
+    left: 30px;
+    top: 30px;
+    border-radius: 10px;
+    font-weight: normal;
+}
+.line{
+    position:relative;
+    top: 100px;
+    opacity: .5;
+}
+.h{
+    position: relative;
+    top: 100px;
+    left: 100px;
+    font-size: larger;
+}
+.first{
+    position: relative;
+    top: 120px;
+    left: 40px;
+    
+
+}
+.firstlabel{
+    position: relative;
+    top: 150px;
+    right: 27px;
+    line-height: 20px;
+    border-radius: 1px;
+    opacity: .2;
+}
+.last{
+    position: relative;
+    top: 120px;
+    left: 80px;
+}
+.lastlabel{
+    position: relative;
+    top: 150px;
+    line-height: 20px;
+    border-radius: 1px;
+    opacity: .2;
+}
+.mail{
+    position: relative;
+    top: 200px;
+    right: 427px;
+    
+}
+.mailadd{
+    position: relative;
+    top: 210px;
+    left: 40px;
+    line-height: 20px;
+    border-radius: 1px;
+    width:90%;
+    opacity: .2;
+    
+}
+.aftermail{
+    position: relative;
+    top: 250px;
+    border-radius: 1px;
+}
+.hed{
+    position: relative;
+    top: 260px;
+    left: 100px;
+    font-size:large;
+}
+.cred{
+    position: relative;
+    top: 275px;
+    left: 40px;
+}
+.creditd{
+    position: relative;
+    top: 300px;
+    right: 40px;
+    line-height: 20px;
+    border-radius: 1px;
+    width:80%;
+    opacity: .2;  
+}
+.after-cc{
+    position:relative;
+    top: 350px;
+}
+.after-line{
+    
+    position: relative;
+    top: 375px;
+    left: 75px;
+}
+.button{
+    color: white;
+    background-color: #4338ca;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    border-radius: 10px;
+    
+    width:70%;
+}
+.help{
+    position:relative;
+    top: 400px;
+    left: 100px;
+}
+.mark{
+    color: purple;
+}
+.text{
+    position:relative;
+    bottom: 5px;
+}
+.adv{
+    position: relative;
+    top: 20px;
+    right: 120px;
+}
+.secondpart{
+    background-color: #312e81;
+    width: 300px;
+    height: 700px;
+    position: relative;
+    bottom: 651px;
+    left: 500px;
+
+}
+.heading{
+    padding: 2%;
+    font-size: 25px;
+    color: white;
+    position:relative;
+    top: 25px;
+    left: 10px;
+
+}
+.amount{
+    color:white;
+    position: relative;
+    top: 25px;
+    left: 25px;
+    font-size: 50px;
+    font-weight: lighter;
+    
+}
+.symbol{
+    font-size: 25px;
+    position: relative;
+    bottom: 15px;
+
+}
+.dates{
+    color:white;
+    position: relative;
+    top: 30px;
+    left: 25px;
+    font-style: italic;
+}
+.date-1{
+    color:white;
+    position: relative;
+    top: 40px;
+    left: 25px;
+    font-style: italic;
+}
+.after{
+    position: relative;
+    top: 55px;
+    opacity: .5;
+}
+.quotes{
+    font-size: 75px;
+    color:blue;
+    position: relative;
+    top: 50px;
+    left: 25px;
+}
+.profile{
+    color:white;
+    position:relative;
+    top: 25px;
+    left: 25px;
+    font-size: 22px;
+    font-weight: lighter;
+}
